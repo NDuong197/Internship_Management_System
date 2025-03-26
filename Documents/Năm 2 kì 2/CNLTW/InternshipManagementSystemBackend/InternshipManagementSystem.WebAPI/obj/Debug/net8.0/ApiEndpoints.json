@@ -1,0 +1,207 @@
+[
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "InternshipManagementSystem.Application.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DangKyThucTapController",
+    "Method": "GetAll",
+    "RelativePath": "api/DangKyThucTap",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DangKyThucTapController",
+    "Method": "Create",
+    "RelativePath": "api/DangKyThucTap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dangKyThucTapDTO",
+        "Type": "InternshipManagementSystem.Application.DTOs.DangKyThucTapDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DangKyThucTapController",
+    "Method": "Update",
+    "RelativePath": "api/DangKyThucTap/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dangKyThucTapDTO",
+        "Type": "InternshipManagementSystem.Application.DTOs.DangKyThucTapDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DangKyThucTapController",
+    "Method": "Delete",
+    "RelativePath": "api/DangKyThucTap/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DoanhNghiepController",
+    "Method": "GetAll",
+    "RelativePath": "api/DoanhNghiep",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DoanhNghiepController",
+    "Method": "Create",
+    "RelativePath": "api/DoanhNghiep",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doanhNghiepDTO",
+        "Type": "InternshipManagementSystem.Application.DTOs.DoanhNghiepDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DoanhNghiepController",
+    "Method": "Update",
+    "RelativePath": "api/DoanhNghiep/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "doanhNghiepDTO",
+        "Type": "InternshipManagementSystem.Application.DTOs.DoanhNghiepDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.DoanhNghiepController",
+    "Method": "Delete",
+    "RelativePath": "api/DoanhNghiep/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.SinhVienController",
+    "Method": "GetAll",
+    "RelativePath": "api/SinhVien",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.SinhVienController",
+    "Method": "Create",
+    "RelativePath": "api/SinhVien",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sinhVienDTO",
+        "Type": "InternshipManagementSystem.Application.DTOs.SinhVienDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.SinhVienController",
+    "Method": "Update",
+    "RelativePath": "api/SinhVien/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "sinhVienDTO",
+        "Type": "InternshipManagementSystem.Application.DTOs.SinhVienDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.WebAPI.Controllers.SinhVienController",
+    "Method": "Delete",
+    "RelativePath": "api/SinhVien/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

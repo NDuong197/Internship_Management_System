@@ -1,0 +1,56 @@
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.deps.json
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\refint\InternshipManagementSystem.Core.dll
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\ref\InternshipManagementSystem.Core.dll
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.runtimeconfig.json
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Duong\source\repos\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.genruntimeconfig.cache
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.deps.json
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.runtimeconfig.json
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfo.cs
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\refint\InternshipManagementSystem.Core.dll
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.genruntimeconfig.cache
+C:\Users\PC\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\ref\InternshipManagementSystem.Core.dll
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.deps.json
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.runtimeconfig.json
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\refint\InternshipManagementSystem.Core.dll
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.genruntimeconfig.cache
+C:\Users\Duong\Documents\Zalo Received Files\InternshipManagementSystemBackend\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\ref\InternshipManagementSystem.Core.dll
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.deps.json
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.runtimeconfig.json
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\bin\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.dll
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\refint\InternshipManagementSystem.Core.dll
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.pdb
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\InternshipManagementSystem.Core.genruntimeconfig.cache
+C:\Users\Admin\Documents\Năm 2 kì 2\CNLTW\InternshipManagementSystemBackend\InternshipManagementSystem.Core\obj\Debug\net8.0\ref\InternshipManagementSystem.Core.dll
